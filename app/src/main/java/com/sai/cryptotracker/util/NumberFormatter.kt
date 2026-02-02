@@ -1,3 +1,4 @@
+// Number formatting utilities for crypto prices
 package com.sai.cryptotracker.util
 
 import java.text.NumberFormat
