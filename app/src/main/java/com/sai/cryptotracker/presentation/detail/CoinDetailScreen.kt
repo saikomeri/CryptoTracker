@@ -1,3 +1,4 @@
+// Coin detail screen with interactive price chart
 package com.sai.cryptotracker.presentation.detail
 
 import androidx.compose.animation.core.animateFloatAsState
