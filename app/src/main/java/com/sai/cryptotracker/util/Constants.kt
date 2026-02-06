@@ -1,3 +1,4 @@
+// App-wide constants
 package com.sai.cryptotracker.util
 
 object Constants {
